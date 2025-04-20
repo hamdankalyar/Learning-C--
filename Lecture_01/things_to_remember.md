@@ -19,9 +19,9 @@
 
 
 12. compiler 
-- read all the code at the one time 
+- translate all code into machine code at once 
 - c , c++
 
-13. Interpretor 
-- read code line by line 
+13. Interpreter 
+- translate code into machine code at line by line  
 - javascript , python 
